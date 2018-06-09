@@ -1,0 +1,3 @@
+# COMMANDS
+
+cwebp 80 whitebackground.jpg -o whitebackground.webp
